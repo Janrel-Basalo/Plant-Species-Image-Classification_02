@@ -1,7 +1,7 @@
 # Plant-Species-Image-Classification_02
 
 ## A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
-## B. i choose marsilea minuta also known as small water clover is an aquatic plant that has four leaf. 
+## B. i choose marsilea minuta also known as small water clover is an aquatic plant that has four leaf. https://drive.google.com/drive/folders/1DTieTpSlDW2YYhvnSSbKKMoR5gzf7qMF?usp=drive_link
 
 ## Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
 ## Dataset screenshots: https://drive.google.com/drive/folders/17NH5bilIuDfQOPY54n971zZ72NfRgnz1?usp=drive_link
