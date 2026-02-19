@@ -8,3 +8,14 @@
 ## Training screenshots: https://drive.google.com/drive/folders/15uwcDsHWJarcYQ3EYgTJinYFHKiv_Zcr?usp=drive_link
 ## Under-the-hood evaluation screenshots: https://drive.google.com/drive/folders/1gOQCjGLGbdQdJV4hfF7a-H79ea_Gek5B?usp=drive_link
 ## Preview testing screenshots: https://drive.google.com/drive/folders/1Vbt-R32w2EhfpESfVbL9-aAFcq33Pga1?usp=drive_link
+
+##1. How did the number of images per class affect your model’s accuracy? 
+### Ans. the more image i upload the more higher the accuracy i get but that defend on how good your image quality upload to.
+##2. Which plant species were most commonly misclassified and why?
+### Ans. Dwarf Chain Sword because he has alot of same species.
+##3. How did changing the epochs, batch size, or learning rate affect the training results?
+### Ans. it increase the accuracy of the training at higer percentage.
+##4. What challenges did you encounter during dataset collection and labeling?
+### Ans. The dataset i choose was hard to get because its aquatic and some of it are hard to find on internet.
+##5. If you were to improve your model, what specific changes would you make and why?
+### Ans. the quality of the image because thats were my model based his accuracy about.
