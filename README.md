@@ -23,7 +23,7 @@
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
 ### B. | 🌿 Plant | 📖 Details |
 |----------                              |------------                                                          |
-| ![](dataset-screenshots/rose.png)      | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes.       |
+| <img width="103" height="441" alt="image" src="https://github.com/user-attachments/assets/a43065a6-a5f6-4ff3-a1df-f638fd807eb4" />      | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes.       |
 | ![](dataset-screenshots/sunflower.png) | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the movement of the sun. |
 | ![](dataset-screenshots/tulip.png)     | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored, cup-shaped flowers popular in gardens worldwide. |
 | ![](dataset-screenshots/aloe-vera.png) | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
