@@ -1,30 +1,17 @@
 ![Alt Text](folder-name/image-name.png)
 | Test    | Screenshot                      |
 | ------- | ------------------------------- |
-| Test 1  | ![](preview-testing/test1.png)  |
-| Test 2  | ![](preview-testing/test2.png)  |
-| Test 3  | ![](preview-testing/test3.png)  |
-| Test 4  | ![](preview-testing/test4.png)  |
-| Test 5  | ![](preview-testing/test5.png)  |
-| Test 6  | ![](preview-testing/test6.png)  |
-| Test 7  | ![](preview-testing/test7.png)  |
-| Test 8  | ![](preview-testing/test8.png)  |
-| Test 9  | ![as](https://github.com/user-attachments/assets/4cb55c23-f8d0-4e99-a7b8-4fe3a0034b7f)  |
-| Test 10 | ![](preview-testing/test10.png) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Test 1  | ![9dc99c24-3e0b-44d7-a7a2-bdcae93217d2](https://github.com/user-attachments/assets/fcd121b0-37a7-4061-965c-4e73a50ac0a2)  |
+| Test 2  | ![1fb592f4-b65f-4f19-85ba-70dea4d71926 (1)](https://github.com/user-attachments/assets/67e1a077-e907-4aa7-8e0c-261ae2086d53) |
+| Test 3  | ![03e86b04-d87c-4010-b212-5ed496299860](https://github.com/user-attachments/assets/cd45ddcc-27cc-4316-8295-bb7ccb6ca6cd)  |
+| Test 4  | ![6fa6cd8e-fe90-4b6f-9937-17c0ebe9ba2e](https://github.com/user-attachments/assets/c03b0c52-0d5d-487d-a137-4481da55c1ed)  |
+| Test 5  | ![165f137c-0ba0-45c8-9fab-9fb955dc5927](https://github.com/user-attachments/assets/b3258a5f-e8f1-4f52-a9ba-eafb761a595a)  |
+| Test 6  | ![793ef7b5-91b4-486b-8053-a34f9b9d36c9](https://github.com/user-attachments/assets/2dd30a47-079c-4f95-8ae9-974a8cffb741)
+  |
+| Test 7  | ![c5f9db77-1211-4e72-9af8-0b83e85ee2a6](https://github.com/user-attachments/assets/e22761cb-e26c-4635-9566-9093a90c342b)  |
+| Test 8  | ![765c280c-229b-43c8-8d44-c523408e0aee](https://github.com/user-attachments/assets/a0b4a4f8-d3da-49c2-a70c-c8b9025666b8)  |
+| Test 9  | ![d3e099bb-901e-4e13-93c3-a0dd6278418e](https://github.com/user-attachments/assets/3d0fa4f8-e026-4ad6-beaa-217efea8ba0e)  |
+| Test 10 | ![e7409f42-2ac9-42ab-ace3-4940143b1f95](https://github.com/user-attachments/assets/30d2ff14-30bc-4e2f-957b-5104415604e7)  |
 
 
 
@@ -37,7 +24,21 @@
 ### Dataset screenshots: https://drive.google.com/drive/folders/17NH5bilIuDfQOPY54n971zZ72NfRgnz1?usp=drive_link
 ### Training screenshots: https://drive.google.com/drive/folders/15uwcDsHWJarcYQ3EYgTJinYFHKiv_Zcr?usp=drive_link
 ### Under-the-hood evaluation screenshots: https://drive.google.com/drive/folders/1gOQCjGLGbdQdJV4hfF7a-H79ea_Gek5B?usp=drive_link
-### Preview testing screenshots: https://drive.google.com/drive/folders/1Vbt-R32w2EhfpESfVbL9-aAFcq33Pga1?usp=drive_link
+
+### 🧪  Preview testing screenshots
+| Test    | Screenshot                      |
+| ------- | ------------------------------- |
+| Test 1  | ![9dc99c24-3e0b-44d7-a7a2-bdcae93217d2](https://github.com/user-attachments/assets/fcd121b0-37a7-4061-965c-4e73a50ac0a2)  |
+| Test 2  | ![1fb592f4-b65f-4f19-85ba-70dea4d71926 (1)](https://github.com/user-attachments/assets/67e1a077-e907-4aa7-8e0c-261ae2086d53) |
+| Test 3  | ![03e86b04-d87c-4010-b212-5ed496299860](https://github.com/user-attachments/assets/cd45ddcc-27cc-4316-8295-bb7ccb6ca6cd)  |
+| Test 4  | ![6fa6cd8e-fe90-4b6f-9937-17c0ebe9ba2e](https://github.com/user-attachments/assets/c03b0c52-0d5d-487d-a137-4481da55c1ed)  |
+| Test 5  | ![165f137c-0ba0-45c8-9fab-9fb955dc5927](https://github.com/user-attachments/assets/b3258a5f-e8f1-4f52-a9ba-eafb761a595a)  |
+| Test 6  | ![793ef7b5-91b4-486b-8053-a34f9b9d36c9](https://github.com/user-attachments/assets/2dd30a47-079c-4f95-8ae9-974a8cffb741)
+  |
+| Test 7  | ![c5f9db77-1211-4e72-9af8-0b83e85ee2a6](https://github.com/user-attachments/assets/e22761cb-e26c-4635-9566-9093a90c342b)  |
+| Test 8  | ![765c280c-229b-43c8-8d44-c523408e0aee](https://github.com/user-attachments/assets/a0b4a4f8-d3da-49c2-a70c-c8b9025666b8)  |
+| Test 9  | ![d3e099bb-901e-4e13-93c3-a0dd6278418e](https://github.com/user-attachments/assets/3d0fa4f8-e026-4ad6-beaa-217efea8ba0e)  |
+| Test 10 | ![e7409f42-2ac9-42ab-ace3-4940143b1f95](https://github.com/user-attachments/assets/30d2ff14-30bc-4e2f-957b-5104415604e7)  |
 
 ## 1. How did the number of images per class affect your model’s accuracy? 
 ### Ans. the more image i upload the more higher the accuracy i get but that defend on how good your image quality upload to.
