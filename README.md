@@ -1,24 +1,10 @@
 
-![ambulia](https://github.com/user-attachments/assets/d7e62dd5-fc68-46e1-b0b4-7ccd5ca203ff)
-![azula pinata](https://github.com/user-attachments/assets/4fbf4e57-e094-4cc8-bb3b-87e6eb76faa9)
-![Bacopa_Caroliniana](https://github.com/user-attachments/assets/7a2f09d1-abca-4258-ab45-dfa770c365c1)
-![bucephalandra_skeleton_king](https://github.com/user-attachments/assets/4026560b-2c27-4caa-a57d-328734d1ca1e)
-![Cryptocoryne_beckettii_Petchii](https://github.com/user-attachments/assets/b50c6eb7-c213-49f4-b14e-aad9e74e7838)
-![Dwarf_Baby_Tears](https://github.com/user-attachments/assets/e4e0b374-f1f8-4cef-beb8-2394a8cf093f)
-![Dwarf_Chain_Sword](https://github.com/user-attachments/assets/6c2dd9d4-c637-4abb-8132-c830a7da3652)
-![Dwarf_Hairgrass](https://github.com/user-attachments/assets/b8e238d0-4899-4c9e-9111-4a407be744e4)
-![Dwarf_Sagittaria](https://github.com/user-attachments/assets/40dbf968-526c-472f-ae4c-836af052517d)
-![elodea_densa](https://github.com/user-attachments/assets/1aea2d50-dba9-4192-bbae-cac774bebb79)
-![Hydrilla_verticillata](https://github.com/user-attachments/assets/78eeb1f8-2046-4388-9982-7863bb88a120)
-![HYGROPHILA_POLYSPERMA](https://github.com/user-attachments/assets/88ac2411-32b7-49ef-8efd-f815a5634683)
-![Limnobium_laevigatum](https://github.com/user-attachments/assets/2e9057ec-2b7b-4c79-82a5-7ea04edf68b4)
-![Ludwigia_sedioides](https://github.com/user-attachments/assets/86cb434c-becf-4d89-9af0-6d88a3aca52a)
-![Marsilea_Minuta](https://github.com/user-attachments/assets/9a4aa5a1-c27e-46de-b71a-d0fa7511a21e)
-![Moneywort](https://github.com/user-attachments/assets/fbf2b88d-3a1b-4e11-949e-3a75b31ebcd5)
-![rotala_rotundifolia_blood_red](https://github.com/user-attachments/assets/6530f3c8-b83f-48cd-a80d-cbe926e6319f)
-![Water_Sprite_Aquarium_Plant](https://github.com/user-attachments/assets/a3830911-963f-49cf-b548-c798c2983bf1)
 
-![pellia_moss](https://github.com/user-attachments/assets/ad08b7dc-cf3c-42af-a795-225fce6e6e2e)
+
+
+
+
+
 
 
 
@@ -37,25 +23,25 @@
 | 🌿 Image | 📖 Plant Details |
 |----------|------------------|
 | ![Dwarf_Chain_Sword](https://github.com/user-attachments/assets/6c2dd9d4-c637-4abb-8132-c830a7da3652) | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes. |
-| <img src="dataset-screenshots/sunflower.png" width="150"/> | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the sun and produces edible seeds. |
-| <img src="dataset-screenshots/tulip.png" width="150"/> | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored cup-shaped flowers commonly grown in gardens. |
-| <img src="dataset-screenshots/aloe-vera.png" width="150"/> | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
-| <img src="dataset-screenshots/mango.png" width="150"/> | **Common Name:** Mango <br> **Scientific Name:** *Mangifera indica* <br> **Description:** A tropical fruit-bearing tree producing sweet and nutritious mangoes. |
-| <img src="dataset-screenshots/banana.png" width="150"/> | **Common Name:** Banana <br> **Scientific Name:** *Musa* <br> **Description:** A tropical plant with large leaves that produces elongated edible fruits. |
-| <img src="dataset-screenshots/neem.png" width="150"/> | **Common Name:** Neem <br> **Scientific Name:** *Azadirachta indica* <br> **Description:** A medicinal tree known for its antibacterial and antifungal properties. |
-| <img src="dataset-screenshots/hibiscus.png" width="150"/> | **Common Name:** Hibiscus <br> **Scientific Name:** *Hibiscus rosa-sinensis* <br> **Description:** A flowering plant recognized for its large, colorful trumpet-shaped blooms. |
-| <img src="dataset-screenshots/lavender.png" width="150"/> | **Common Name:** Lavender <br> **Scientific Name:** *Lavandula* <br> **Description:** A fragrant herb used in perfumes, essential oils, and aromatherapy. |
-| <img src="dataset-screenshots/cactus.png" width="150"/> | **Common Name:** Cactus <br> **Scientific Name:** *Cactaceae* <br> **Description:** A desert plant adapted to dry environments with thick water-storing stems and protective spines. |
-| <img src="dataset-screenshots/bamboo.png" width="150"/> | **Common Name:** Bamboo <br> **Scientific Name:** *Bambusoideae* <br> **Description:** A fast-growing grass species widely used in construction and furniture production. |
-| <img src="dataset-screenshots/orchid.png" width="150"/> | **Common Name:** Orchid <br> **Scientific Name:** *Orchidaceae* <br> **Description:** A diverse family of flowering plants known for exotic and symmetrical blooms. |
-| <img src="dataset-screenshots/pine.png" width="150"/> | **Common Name:** Pine <br> **Scientific Name:** *Pinus* <br> **Description:** A coniferous tree with needle-like leaves and cones found in temperate climates. |
-| <img src="dataset-screenshots/palm.png" width="150"/> | **Common Name:** Palm Tree <br> **Scientific Name:** *Arecaceae* <br> **Description:** A tropical tree characterized by its tall trunk and fan-shaped leaves. |
-| <img src="dataset-screenshots/tomato.png" width="150"/> | **Common Name:** Tomato Plant <br> **Scientific Name:** *Solanum lycopersicum* <br> **Description:** A flowering plant producing edible red fruits commonly used in cooking. |
-| <img src="dataset-screenshots/potato.png" width="150"/> | **Common Name:** Potato Plant <br> **Scientific Name:** *Solanum tuberosum* <br> **Description:** A root vegetable plant cultivated for its edible underground tubers. |
-| <img src="dataset-screenshots/mint.png" width="150"/> | **Common Name:** Mint <br> **Scientific Name:** *Mentha* <br> **Description:** A fragrant herb widely used in food, beverages, and medicinal products. |
-| <img src="dataset-screenshots/coriander.png" width="150"/> | **Common Name:** Coriander <br> **Scientific Name:** *Coriandrum sativum* <br> **Description:** An aromatic herb used in cooking; both leaves and seeds are edible. |
+| ![Marsilea_Minuta](https://github.com/user-attachments/assets/9a4aa5a1-c27e-46de-b71a-d0fa7511a21e) | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the sun and produces edible seeds. |
+| ![Dwarf_Hairgrass](https://github.com/user-attachments/assets/b8e238d0-4899-4c9e-9111-4a407be744e4) | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored cup-shaped flowers commonly grown in gardens. |
+| ![Dwarf_Baby_Tears](https://github.com/user-attachments/assets/e4e0b374-f1f8-4cef-beb8-2394a8cf093f) | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
+| ![pellia_moss](https://github.com/user-attachments/assets/ad08b7dc-cf3c-42af-a795-225fce6e6e2e) | **Common Name:** Mango <br> **Scientific Name:** *Mangifera indica* <br> **Description:** A tropical fruit-bearing tree producing sweet and nutritious mangoes. |
+| ![ambulia](https://github.com/user-attachments/assets/d7e62dd5-fc68-46e1-b0b4-7ccd5ca203ff) | **Common Name:** Banana <br> **Scientific Name:** *Musa* <br> **Description:** A tropical plant with large leaves that produces elongated edible fruits. |
+| ![Moneywort](https://github.com/user-attachments/assets/fbf2b88d-3a1b-4e11-949e-3a75b31ebcd5) | **Common Name:** Neem <br> **Scientific Name:** *Azadirachta indica* <br> **Description:** A medicinal tree known for its antibacterial and antifungal properties. |
+| ![Bacopa_Caroliniana](https://github.com/user-attachments/assets/7a2f09d1-abca-4258-ab45-dfa770c365c1) | **Common Name:** Hibiscus <br> **Scientific Name:** *Hibiscus rosa-sinensis* <br> **Description:** A flowering plant recognized for its large, colorful trumpet-shaped blooms. |
+| ![rotala_rotundifolia_blood_red](https://github.com/user-attachments/assets/6530f3c8-b83f-48cd-a80d-cbe926e6319f) | **Common Name:** Lavender <br> **Scientific Name:** *Lavandula* <br> **Description:** A fragrant herb used in perfumes, essential oils, and aromatherapy. |
+| ![HYGROPHILA_POLYSPERMA](https://github.com/user-attachments/assets/88ac2411-32b7-49ef-8efd-f815a5634683) | **Common Name:** Cactus <br> **Scientific Name:** *Cactaceae* <br> **Description:** A desert plant adapted to dry environments with thick water-storing stems and protective spines. |
+| ![Water_Sprite_Aquarium_Plant](https://github.com/user-attachments/assets/a3830911-963f-49cf-b548-c798c2983bf1) | **Common Name:** Bamboo <br> **Scientific Name:** *Bambusoideae* <br> **Description:** A fast-growing grass species widely used in construction and furniture production. |
+| ![Dwarf_Sagittaria](https://github.com/user-attachments/assets/40dbf968-526c-472f-ae4c-836af052517d) | **Common Name:** Orchid <br> **Scientific Name:** *Orchidaceae* <br> **Description:** A diverse family of flowering plants known for exotic and symmetrical blooms. |
+| ![elodea_densa](https://github.com/user-attachments/assets/1aea2d50-dba9-4192-bbae-cac774bebb79) | **Common Name:** Pine <br> **Scientific Name:** *Pinus* <br> **Description:** A coniferous tree with needle-like leaves and cones found in temperate climates. |
+|![azula pinata](https://github.com/user-attachments/assets/4fbf4e57-e094-4cc8-bb3b-87e6eb76faa9) | **Common Name:** Palm Tree <br> **Scientific Name:** *Arecaceae* <br> **Description:** A tropical tree characterized by its tall trunk and fan-shaped leaves. |
+| ![Hydrilla_verticillata](https://github.com/user-attachments/assets/78eeb1f8-2046-4388-9982-7863bb88a120) | **Common Name:** Tomato Plant <br> **Scientific Name:** *Solanum lycopersicum* <br> **Description:** A flowering plant producing edible red fruits commonly used in cooking. |
+| ![Cryptocoryne_beckettii_Petchii](https://github.com/user-attachments/assets/b50c6eb7-c213-49f4-b14e-aad9e74e7838) | **Common Name:** Potato Plant <br> **Scientific Name:** *Solanum tuberosum* <br> **Description:** A root vegetable plant cultivated for its edible underground tubers. |
+| ![bucephalandra_skeleton_king](https://github.com/user-attachments/assets/4026560b-2c27-4caa-a57d-328734d1ca1e) | **Common Name:** Mint <br> **Scientific Name:** *Mentha* <br> **Description:** A fragrant herb widely used in food, beverages, and medicinal products. |
+| ![Limnobium_laevigatum](https://github.com/user-attachments/assets/2e9057ec-2b7b-4c79-82a5-7ea04edf68b4) | **Common Name:** Coriander <br> **Scientific Name:** *Coriandrum sativum* <br> **Description:** An aromatic herb used in cooking; both leaves and seeds are edible. |
 | <img src="dataset-screenshots/spinach.png" width="150"/> | **Common Name:** Spinach <br> **Scientific Name:** *Spinacia oleracea* <br> **Description:** A leafy green vegetable rich in iron and essential nutrients. |
-| <img src="dataset-screenshots/wheat.png" width="150"/> | **Common Name:** Wheat <br> **Scientific Name:** *Triticum* <br> **Description:** A cereal grain widely cultivated for flour and food production. |
+| ![Ludwigia_sedioides](https://github.com/user-attachments/assets/86cb434c-becf-4d89-9af0-6d88a3aca52a) | **Common Name:** Wheat <br> **Scientific Name:** *Triticum* <br> **Description:** A cereal grain widely cultivated for flour and food production. |
 
 
 
