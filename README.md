@@ -22,27 +22,27 @@
 
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
 ### B. | 🌿 Plant | 📖 Details |
-|----------|------------|
-| ![](dataset-screenshots/rose.png) | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes. |
+|----------                              |------------                                                          |
+| ![](dataset-screenshots/rose.png)      | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes.       |
 | ![](dataset-screenshots/sunflower.png) | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the movement of the sun. |
-| ![](dataset-screenshots/tulip.png) | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored, cup-shaped flowers popular in gardens worldwide. |
+| ![](dataset-screenshots/tulip.png)     | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored, cup-shaped flowers popular in gardens worldwide. |
 | ![](dataset-screenshots/aloe-vera.png) | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
-| ![](dataset-screenshots/mango.png) | **Common Name:** Mango <br> **Scientific Name:** *Mangifera indica* <br> **Description:** A tropical fruit-bearing tree that produces sweet and nutritious mangoes. |
-| ![](dataset-screenshots/banana.png) | **Common Name:** Banana <br> **Scientific Name:** *Musa* <br> **Description:** A tropical plant with large leaves that produces elongated edible fruits. |
-| ![](dataset-screenshots/neem.png) | **Common Name:** Neem <br> **Scientific Name:** *Azadirachta indica* <br> **Description:** A medicinal tree known for its antibacterial and antifungal properties. |
-| ![](dataset-screenshots/hibiscus.png) | **Common Name:** Hibiscus <br> **Scientific Name:** *Hibiscus rosa-sinensis* <br> **Description:** A flowering plant known for its large, colorful trumpet-shaped blooms. |
-| ![](dataset-screenshots/lavender.png) | **Common Name:** Lavender <br> **Scientific Name:** *Lavandula* <br> **Description:** A fragrant herb used in perfumes, essential oils, and aromatherapy. |
-| ![](dataset-screenshots/cactus.png) | **Common Name:** Cactus <br> **Scientific Name:** *Cactaceae* <br> **Description:** A desert plant adapted to dry climates with thick water-storing stems and protective spines. |
-| ![](dataset-screenshots/bamboo.png) | **Common Name:** Bamboo <br> **Scientific Name:** *Bambusoideae* <br> **Description:** A fast-growing grass species used in construction, furniture, and paper production. |
-| ![](dataset-screenshots/orchid.png) | **Common Name:** Orchid <br> **Scientific Name:** *Orchidaceae* <br> **Description:** A diverse flowering plant family known for exotic and symmetrical blooms. |
-| ![](dataset-screenshots/pine.png) | **Common Name:** Pine <br> **Scientific Name:** *Pinus* <br> **Description:** A coniferous tree with needle-like leaves and cones, commonly found in temperate climates. |
-| ![](dataset-screenshots/palm.png) | **Common Name:** Palm Tree <br> **Scientific Name:** *Arecaceae* <br> **Description:** A tropical tree recognized by its tall trunk and large fan-shaped leaves. |
-| ![](dataset-screenshots/tomato.png) | **Common Name:** Tomato Plant <br> **Scientific Name:** *Solanum lycopersicum* <br> **Description:** A flowering plant that produces edible red fruits widely used in cooking. |
-| ![](dataset-screenshots/potato.png) | **Common Name:** Potato Plant <br> **Scientific Name:** *Solanum tuberosum* <br> **Description:** A root vegetable plant cultivated for its edible underground tubers. |
-| ![](dataset-screenshots/mint.png) | **Common Name:** Mint <br> **Scientific Name:** *Mentha* <br> **Description:** A fragrant herb commonly used in food, beverages, and medicinal products. |
+| ![](dataset-screenshots/mango.png)     | **Common Name:** Mango <br> **Scientific Name:** *Mangifera indica* <br> **Description:** A tropical fruit-bearing tree that produces sweet and nutritious mangoes. |
+| ![](dataset-screenshots/banana.png)    | **Common Name:** Banana <br> **Scientific Name:** *Musa* <br> **Description:** A tropical plant with large leaves that produces elongated edible fruits. |
+| ![](dataset-screenshots/neem.png)      | **Common Name:** Neem <br> **Scientific Name:** *Azadirachta indica* <br> **Description:** A medicinal tree known for its antibacterial and antifungal properties. |
+| ![](dataset-screenshots/hibiscus.png)  | **Common Name:** Hibiscus <br> **Scientific Name:** *Hibiscus rosa-sinensis* <br> **Description:** A flowering plant known for its large, colorful trumpet-shaped blooms. |
+| ![](dataset-screenshots/lavender.png)  | **Common Name:** Lavender <br> **Scientific Name:** *Lavandula* <br> **Description:** A fragrant herb used in perfumes, essential oils, and aromatherapy. |
+| ![](dataset-screenshots/cactus.png)    | **Common Name:** Cactus <br> **Scientific Name:** *Cactaceae* <br> **Description:** A desert plant adapted to dry climates with thick water-storing stems and protective spines. |
+| ![](dataset-screenshots/bamboo.png)    | **Common Name:** Bamboo <br> **Scientific Name:** *Bambusoideae* <br> **Description:** A fast-growing grass species used in construction, furniture, and paper production. |
+| ![](dataset-screenshots/orchid.png)    | **Common Name:** Orchid <br> **Scientific Name:** *Orchidaceae* <br> **Description:** A diverse flowering plant family known for exotic and symmetrical blooms. |
+| ![](dataset-screenshots/pine.png)      | **Common Name:** Pine <br> **Scientific Name:** *Pinus* <br> **Description:** A coniferous tree with needle-like leaves and cones, commonly found in temperate climates. |
+| ![](dataset-screenshots/palm.png)      | **Common Name:** Palm Tree <br> **Scientific Name:** *Arecaceae* <br> **Description:** A tropical tree recognized by its tall trunk and large fan-shaped leaves. |
+| ![](dataset-screenshots/tomato.png)    | **Common Name:** Tomato Plant <br> **Scientific Name:** *Solanum lycopersicum* <br> **Description:** A flowering plant that produces edible red fruits widely used in cooking. |
+| ![](dataset-screenshots/potato.png)    | **Common Name:** Potato Plant <br> **Scientific Name:** *Solanum tuberosum* <br> **Description:** A root vegetable plant cultivated for its edible underground tubers. |
+| ![](dataset-screenshots/mint.png)      | **Common Name:** Mint <br> **Scientific Name:** *Mentha* <br> **Description:** A fragrant herb commonly used in food, beverages, and medicinal products. |
 | ![](dataset-screenshots/coriander.png) | **Common Name:** Coriander <br> **Scientific Name:** *Coriandrum sativum* <br> **Description:** An aromatic herb used in cooking; both leaves and seeds are edible. |
-| ![](dataset-screenshots/spinach.png) | **Common Name:** Spinach <br> **Scientific Name:** *Spinacia oleracea* <br> **Description:** A leafy green vegetable rich in iron and essential nutrients. |
-| ![](dataset-screenshots/wheat.png) | **Common Name:** Wheat <br> **Scientific Name:** *Triticum* <br> **Description:** A cereal grain widely cultivated for flour and food production. |
+| ![](dataset-screenshots/spinach.png)   | **Common Name:** Spinach <br> **Scientific Name:** *Spinacia oleracea* <br> **Description:** A leafy green vegetable rich in iron and essential nutrients. |
+| ![](dataset-screenshots/wheat.png)     | **Common Name:** Wheat <br> **Scientific Name:** *Triticum* <br> **Description:** A cereal grain widely cultivated for flour and food production. |
 
 ### Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
 ### Dataset screenshots: https://drive.google.com/drive/folders/17NH5bilIuDfQOPY54n971zZ72NfRgnz1?usp=drive_link
