@@ -5,8 +5,7 @@
 
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
 
-### B. 
-## 🌱 Plant Species
+### B. ## 🌱 Plant Species
 
 | 🌿 Image | 📖 Plant Details |
 |----------|------------------|
@@ -32,9 +31,7 @@
 | ![Ludwigia_sedioides](https://github.com/user-attachments/assets/86cb434c-becf-4d89-9af0-6d88a3aca52a) | **Common Name:** Mosaic Plant <br> **Scientific Name:** *Ludwigia sedioides* <br> **Description:** A floating aquatic plant with diamond-shaped leaves arranged in a mosaic pattern. |
 
 
-
 ### Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
-
 
 
 ### Dataset screenshots:
