@@ -5,7 +5,7 @@
 
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
 
-### B. 🌱 Plant Species
+### B.🌱 Plant Species
 
 | 🌿 Image | 📖 Plant Details |
 |----------|------------------|
