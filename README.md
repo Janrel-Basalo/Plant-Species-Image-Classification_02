@@ -26,7 +26,17 @@
 ### Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
 ### Dataset screenshots: https://drive.google.com/drive/folders/17NH5bilIuDfQOPY54n971zZ72NfRgnz1?usp=drive_link
 ### Training screenshots: https://drive.google.com/drive/folders/15uwcDsHWJarcYQ3EYgTJinYFHKiv_Zcr?usp=drive_link
-### Under-the-hood evaluation screenshots: https://drive.google.com/drive/folders/1gOQCjGLGbdQdJV4hfF7a-H79ea_Gek5B?usp=drive_link
+### Under-the-hood evaluation screenshots
+
+| Under The Hood 📈   |          Screenshot             |
+|      -------        | ------------------------------- |
+| Accuracy Per Class  | <img width="103" height="441" alt="image" src="https://github.com/user-attachments/assets/a43065a6-a5f6-4ff3-a1df-f638fd807eb4" />  |
+| Aonfusion Matrix    | <img width="189" height="424" alt="image (1)" src="https://github.com/user-attachments/assets/89fa6e15-feb2-4784-be97-62e91bb038d6" /> <img width="108" height="423" alt="image (3)" src="https://github.com/user-attachments/assets/338c7a8a-ebb8-4f24-920d-f08fcf11c2b0" />  <img width="117" height="426" alt="image (4)" src="https://github.com/user-attachments/assets/2f49c37d-8ef6-4f56-8fd9-825e0730bf66" />    <img width="189" height="424" alt="image (2)" src="https://github.com/user-attachments/assets/bd17b680-03eb-4f94-b607-5f1ea383d36f" />|
+| Accuracy Per Epoch  | <img width="155" height="232" alt="image (5)" src="https://github.com/user-attachments/assets/4f64ac3d-b965-4989-89f5-4ea912b86d57" />  |
+| Loss Per Epoch      | <img width="151" height="213" alt="image (6)" src="https://github.com/user-attachments/assets/b9f6a639-9a3b-47fb-9439-57069ec05813" />  |
+
+
+
 
 ### 🧪  Preview testing screenshots
 | Test    | Screenshot                      |
