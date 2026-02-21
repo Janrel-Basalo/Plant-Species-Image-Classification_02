@@ -1,7 +1,7 @@
 
 | Under The Hood 📈   |          Screenshot             |
 |      -------        | ------------------------------- |
-| Accuracy Per Class  | <img width="403" height="841" alt="image" src="https://github.com/user-attachments/assets/a43065a6-a5f6-4ff3-a1df-f638fd807eb4" />  |
+| Accuracy Per Class  | <img width="103" height="441" alt="image" src="https://github.com/user-attachments/assets/a43065a6-a5f6-4ff3-a1df-f638fd807eb4" />  |
 | Aonfusion Matrix    | <img width="389" height="824" alt="image (1)" src="https://github.com/user-attachments/assets/89fa6e15-feb2-4784-be97-62e91bb038d6" /> <img width="408" height="823" alt="image (3)" src="https://github.com/user-attachments/assets/338c7a8a-ebb8-4f24-920d-f08fcf11c2b0" /> <img width="417" height="826" alt="image (4)" src="https://github.com/user-attachments/assets/2f49c37d-8ef6-4f56-8fd9-825e0730bf66" /><img width="389" height="824" alt="image (2)" src="https://github.com/user-attachments/assets/bd17b680-03eb-4f94-b607-5f1ea383d36f" />|
 | Accuracy Per Epoch  | <img width="255" height="232" alt="image (5)" src="https://github.com/user-attachments/assets/4f64ac3d-b965-4989-89f5-4ea912b86d57" />  |
 | Loss Per Epoch      | <img width="251" height="213" alt="image (6)" src="https://github.com/user-attachments/assets/b9f6a639-9a3b-47fb-9439-57069ec05813" />  |
