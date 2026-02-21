@@ -1,45 +1,3 @@
-## 🧪 Model Testing – Preview Screenshots
-
-<table>
-<tr>
-<td align="center">
-<img src="preview-testing/test1.png" width="150"><br>Test 1
-</td>
-<td align="center">
-<img src="preview-testing/test2.png" width="150"><br>Test 2
-</td>
-<td align="center">
-<img src="preview-testing/test3.png" width="150"><br>Test 3
-</td>
-<td align="center">
-<img src="preview-testing/test4.png" width="150"><br>Test 4
-</td>
-<td align="center">
-<img src="preview-testing/test5.png" width="150"><br>Test 5
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="preview-testing/test6.png" width="150"><br>Test 6
-</td>
-<td align="center">
-<img src="preview-testing/test7.png" width="150"><br>Test 7
-</td>
-<td align="center">
-<img src="preview-testing/test8.png" width="150"><br>Test 8
-</td>
-<td align="center">
-<img src="preview-testing/test9.png" width="150"><br>Test 9
-</td>
-<td align="center">
-<img src="preview-testing/test10.png" width="150"><br>Test 10
-</td>
-</tr>
-</table>
-
-
-
 
 
 
@@ -78,8 +36,27 @@
 ### Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
 
 
+
 ### Dataset screenshots:
-<img width="151" height="329" alt="image (7)" src="https://github.com/user-attachments/assets/455f9db5-a4ab-45d0-a9a5-058d74ee12dd" />
+<table>
+<tr>
+<td align="center">
+<img width="396" height="560" alt="image (8)" src="https://github.com/user-attachments/assets/cfc837b6-f221-424d-b6f7-abc1990d6ca2" /><br>Test 1
+</td>
+<td align="center">
+<img width="408" height="562" alt="image (9)" src="https://github.com/user-attachments/assets/33372d42-5599-4728-9651-3e9da26a4c26" /><br>Test 2
+</td>
+<td align="center">
+<img width="413" height="564" alt="image (10)" src="https://github.com/user-attachments/assets/9a6cc946-b207-4148-ab86-f734dfa7e815" /><br>Test 3
+</td>
+<td align="center">
+<img width="409" height="556" alt="image (11)" src="https://github.com/user-attachments/assets/fb20bd78-9d19-49c4-8e09-89860e2630ce" /><br>Test 4
+</td>
+<td align="center">
+<img width="437" height="571" alt="image (12)" src="https://github.com/user-attachments/assets/612a86d1-309f-4546-beb3-c0691b699374" /><br>Test 5
+</td>
+</tr>
+</table>
 
 
 ### Training screenshots: 
