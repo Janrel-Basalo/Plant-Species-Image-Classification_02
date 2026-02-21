@@ -1,15 +1,24 @@
 
-| Under The Hood 📈   |          Screenshot             |
-|      -------        | ------------------------------- |
-| Accuracy Per Class  | <img width="103" height="441" alt="image" src="https://github.com/user-attachments/assets/a43065a6-a5f6-4ff3-a1df-f638fd807eb4" />  |
-| Aonfusion Matrix    | <img width="189" height="424" alt="image (1)" src="https://github.com/user-attachments/assets/89fa6e15-feb2-4784-be97-62e91bb038d6" /> <img width="108" height="423" alt="image (3)" src="https://github.com/user-attachments/assets/338c7a8a-ebb8-4f24-920d-f08fcf11c2b0" />  <img width="117" height="426" alt="image (4)" src="https://github.com/user-attachments/assets/2f49c37d-8ef6-4f56-8fd9-825e0730bf66" />    <img width="189" height="424" alt="image (2)" src="https://github.com/user-attachments/assets/bd17b680-03eb-4f94-b607-5f1ea383d36f" />|
-| Accuracy Per Epoch  | <img width="155" height="232" alt="image (5)" src="https://github.com/user-attachments/assets/4f64ac3d-b965-4989-89f5-4ea912b86d57" />  |
-| Loss Per Epoch      | <img width="151" height="213" alt="image (6)" src="https://github.com/user-attachments/assets/b9f6a639-9a3b-47fb-9439-57069ec05813" />  |
+![ambulia](https://github.com/user-attachments/assets/d7e62dd5-fc68-46e1-b0b4-7ccd5ca203ff)
+![azula pinata](https://github.com/user-attachments/assets/4fbf4e57-e094-4cc8-bb3b-87e6eb76faa9)
+![Bacopa_Caroliniana](https://github.com/user-attachments/assets/7a2f09d1-abca-4258-ab45-dfa770c365c1)
+![bucephalandra_skeleton_king](https://github.com/user-attachments/assets/4026560b-2c27-4caa-a57d-328734d1ca1e)
+![Cryptocoryne_beckettii_Petchii](https://github.com/user-attachments/assets/b50c6eb7-c213-49f4-b14e-aad9e74e7838)
+![Dwarf_Baby_Tears](https://github.com/user-attachments/assets/e4e0b374-f1f8-4cef-beb8-2394a8cf093f)
+![Dwarf_Chain_Sword](https://github.com/user-attachments/assets/6c2dd9d4-c637-4abb-8132-c830a7da3652)
+![Dwarf_Hairgrass](https://github.com/user-attachments/assets/b8e238d0-4899-4c9e-9111-4a407be744e4)
+![Dwarf_Sagittaria](https://github.com/user-attachments/assets/40dbf968-526c-472f-ae4c-836af052517d)
+![elodea_densa](https://github.com/user-attachments/assets/1aea2d50-dba9-4192-bbae-cac774bebb79)
+![Hydrilla_verticillata](https://github.com/user-attachments/assets/78eeb1f8-2046-4388-9982-7863bb88a120)
+![HYGROPHILA_POLYSPERMA](https://github.com/user-attachments/assets/88ac2411-32b7-49ef-8efd-f815a5634683)
+![Limnobium_laevigatum](https://github.com/user-attachments/assets/2e9057ec-2b7b-4c79-82a5-7ea04edf68b4)
+![Ludwigia_sedioides](https://github.com/user-attachments/assets/86cb434c-becf-4d89-9af0-6d88a3aca52a)
+![Marsilea_Minuta](https://github.com/user-attachments/assets/9a4aa5a1-c27e-46de-b71a-d0fa7511a21e)
+![Moneywort](https://github.com/user-attachments/assets/fbf2b88d-3a1b-4e11-949e-3a75b31ebcd5)
+![rotala_rotundifolia_blood_red](https://github.com/user-attachments/assets/6530f3c8-b83f-48cd-a80d-cbe926e6319f)
+![Water_Sprite_Aquarium_Plant](https://github.com/user-attachments/assets/a3830911-963f-49cf-b548-c798c2983bf1)
 
-
-
-
-
+![pellia_moss](https://github.com/user-attachments/assets/ad08b7dc-cf3c-42af-a795-225fce6e6e2e)
 
 
 
@@ -21,12 +30,13 @@
 # Plant-Species-Image-Classification_02
 
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
-### B. | 🌿 Plant | 📖 Details |
+
+### B. 
 ## 🌱 Plant Species
 
 | 🌿 Image | 📖 Plant Details |
 |----------|------------------|
-| <img src="dataset-screenshots/rose.png" width="150"/> | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes. |
+| ![Dwarf_Chain_Sword](https://github.com/user-attachments/assets/6c2dd9d4-c637-4abb-8132-c830a7da3652) | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes. |
 | <img src="dataset-screenshots/sunflower.png" width="150"/> | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the sun and produces edible seeds. |
 | <img src="dataset-screenshots/tulip.png" width="150"/> | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored cup-shaped flowers commonly grown in gardens. |
 | <img src="dataset-screenshots/aloe-vera.png" width="150"/> | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
