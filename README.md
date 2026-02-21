@@ -1,34 +1,4 @@
-
-
-plant-species-classifier/
-│
-├── README.md
-│
-├── model/
-│   ├── keras_model.h5
-│   ├── labels.txt
-│   └── metadata.json
-│
-├── dataset-screenshots/
-│   ├── class1.png
-│   ├── class2.png
-│   └── ...
-│
-├── training-screenshots/
-│   ├── training-graph.png
-│   ├── epoch-progress.png
-│
-├── evaluation-screenshots/
-│   ├── confusion-matrix.png
-│   ├── accuracy-per-class.png
-│   ├── overall-accuracy.png
-│
-└── preview-testing/
-    ├── test1.png
-    ├── test2.png
-    └── test10.png
-
-
+![Alt Text](folder-name/image-name.png)
 
 
 
