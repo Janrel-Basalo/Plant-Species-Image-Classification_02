@@ -22,27 +22,53 @@
 
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
 ### B. | 🌿 Plant | 📖 Details |
-|----------                              |------------                                                          |
-| <img width="103" height="441" alt="image" src="https://github.com/user-attachments/assets/a43065a6-a5f6-4ff3-a1df-f638fd807eb4" />      | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes.       |
-| ![](dataset-screenshots/sunflower.png) | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the movement of the sun. |
-| ![](dataset-screenshots/tulip.png)     | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored, cup-shaped flowers popular in gardens worldwide. |
-| ![](dataset-screenshots/aloe-vera.png) | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
-| ![](dataset-screenshots/mango.png)     | **Common Name:** Mango <br> **Scientific Name:** *Mangifera indica* <br> **Description:** A tropical fruit-bearing tree that produces sweet and nutritious mangoes. |
-| ![](dataset-screenshots/banana.png)    | **Common Name:** Banana <br> **Scientific Name:** *Musa* <br> **Description:** A tropical plant with large leaves that produces elongated edible fruits. |
-| ![](dataset-screenshots/neem.png)      | **Common Name:** Neem <br> **Scientific Name:** *Azadirachta indica* <br> **Description:** A medicinal tree known for its antibacterial and antifungal properties. |
-| ![](dataset-screenshots/hibiscus.png)  | **Common Name:** Hibiscus <br> **Scientific Name:** *Hibiscus rosa-sinensis* <br> **Description:** A flowering plant known for its large, colorful trumpet-shaped blooms. |
-| ![](dataset-screenshots/lavender.png)  | **Common Name:** Lavender <br> **Scientific Name:** *Lavandula* <br> **Description:** A fragrant herb used in perfumes, essential oils, and aromatherapy. |
-| ![](dataset-screenshots/cactus.png)    | **Common Name:** Cactus <br> **Scientific Name:** *Cactaceae* <br> **Description:** A desert plant adapted to dry climates with thick water-storing stems and protective spines. |
-| ![](dataset-screenshots/bamboo.png)    | **Common Name:** Bamboo <br> **Scientific Name:** *Bambusoideae* <br> **Description:** A fast-growing grass species used in construction, furniture, and paper production. |
-| ![](dataset-screenshots/orchid.png)    | **Common Name:** Orchid <br> **Scientific Name:** *Orchidaceae* <br> **Description:** A diverse flowering plant family known for exotic and symmetrical blooms. |
-| ![](dataset-screenshots/pine.png)      | **Common Name:** Pine <br> **Scientific Name:** *Pinus* <br> **Description:** A coniferous tree with needle-like leaves and cones, commonly found in temperate climates. |
-| ![](dataset-screenshots/palm.png)      | **Common Name:** Palm Tree <br> **Scientific Name:** *Arecaceae* <br> **Description:** A tropical tree recognized by its tall trunk and large fan-shaped leaves. |
-| ![](dataset-screenshots/tomato.png)    | **Common Name:** Tomato Plant <br> **Scientific Name:** *Solanum lycopersicum* <br> **Description:** A flowering plant that produces edible red fruits widely used in cooking. |
-| ![](dataset-screenshots/potato.png)    | **Common Name:** Potato Plant <br> **Scientific Name:** *Solanum tuberosum* <br> **Description:** A root vegetable plant cultivated for its edible underground tubers. |
-| ![](dataset-screenshots/mint.png)      | **Common Name:** Mint <br> **Scientific Name:** *Mentha* <br> **Description:** A fragrant herb commonly used in food, beverages, and medicinal products. |
-| ![](dataset-screenshots/coriander.png) | **Common Name:** Coriander <br> **Scientific Name:** *Coriandrum sativum* <br> **Description:** An aromatic herb used in cooking; both leaves and seeds are edible. |
-| ![](dataset-screenshots/spinach.png)   | **Common Name:** Spinach <br> **Scientific Name:** *Spinacia oleracea* <br> **Description:** A leafy green vegetable rich in iron and essential nutrients. |
-| ![](dataset-screenshots/wheat.png)     | **Common Name:** Wheat <br> **Scientific Name:** *Triticum* <br> **Description:** A cereal grain widely cultivated for flour and food production. |
+## 🌱 Plant Species
+
+| 🌿 Image | 📖 Plant Details |
+|----------|------------------|
+| <img src="dataset-screenshots/rose.png" width="150"/> | **Common Name:** Rose <br> **Scientific Name:** *Rosa* <br> **Description:** A flowering shrub known for its fragrant and colorful blossoms, widely cultivated for ornamental purposes. |
+| <img src="dataset-screenshots/sunflower.png" width="150"/> | **Common Name:** Sunflower <br> **Scientific Name:** *Helianthus annuus* <br> **Description:** A tall annual plant with a large yellow flower head that follows the sun and produces edible seeds. |
+| <img src="dataset-screenshots/tulip.png" width="150"/> | **Common Name:** Tulip <br> **Scientific Name:** *Tulipa* <br> **Description:** A spring-blooming plant with brightly colored cup-shaped flowers commonly grown in gardens. |
+| <img src="dataset-screenshots/aloe-vera.png" width="150"/> | **Common Name:** Aloe Vera <br> **Scientific Name:** *Aloe barbadensis miller* <br> **Description:** A succulent plant known for its medicinal gel used in skincare and healing treatments. |
+| <img src="dataset-screenshots/mango.png" width="150"/> | **Common Name:** Mango <br> **Scientific Name:** *Mangifera indica* <br> **Description:** A tropical fruit-bearing tree producing sweet and nutritious mangoes. |
+| <img src="dataset-screenshots/banana.png" width="150"/> | **Common Name:** Banana <br> **Scientific Name:** *Musa* <br> **Description:** A tropical plant with large leaves that produces elongated edible fruits. |
+| <img src="dataset-screenshots/neem.png" width="150"/> | **Common Name:** Neem <br> **Scientific Name:** *Azadirachta indica* <br> **Description:** A medicinal tree known for its antibacterial and antifungal properties. |
+| <img src="dataset-screenshots/hibiscus.png" width="150"/> | **Common Name:** Hibiscus <br> **Scientific Name:** *Hibiscus rosa-sinensis* <br> **Description:** A flowering plant recognized for its large, colorful trumpet-shaped blooms. |
+| <img src="dataset-screenshots/lavender.png" width="150"/> | **Common Name:** Lavender <br> **Scientific Name:** *Lavandula* <br> **Description:** A fragrant herb used in perfumes, essential oils, and aromatherapy. |
+| <img src="dataset-screenshots/cactus.png" width="150"/> | **Common Name:** Cactus <br> **Scientific Name:** *Cactaceae* <br> **Description:** A desert plant adapted to dry environments with thick water-storing stems and protective spines. |
+| <img src="dataset-screenshots/bamboo.png" width="150"/> | **Common Name:** Bamboo <br> **Scientific Name:** *Bambusoideae* <br> **Description:** A fast-growing grass species widely used in construction and furniture production. |
+| <img src="dataset-screenshots/orchid.png" width="150"/> | **Common Name:** Orchid <br> **Scientific Name:** *Orchidaceae* <br> **Description:** A diverse family of flowering plants known for exotic and symmetrical blooms. |
+| <img src="dataset-screenshots/pine.png" width="150"/> | **Common Name:** Pine <br> **Scientific Name:** *Pinus* <br> **Description:** A coniferous tree with needle-like leaves and cones found in temperate climates. |
+| <img src="dataset-screenshots/palm.png" width="150"/> | **Common Name:** Palm Tree <br> **Scientific Name:** *Arecaceae* <br> **Description:** A tropical tree characterized by its tall trunk and fan-shaped leaves. |
+| <img src="dataset-screenshots/tomato.png" width="150"/> | **Common Name:** Tomato Plant <br> **Scientific Name:** *Solanum lycopersicum* <br> **Description:** A flowering plant producing edible red fruits commonly used in cooking. |
+| <img src="dataset-screenshots/potato.png" width="150"/> | **Common Name:** Potato Plant <br> **Scientific Name:** *Solanum tuberosum* <br> **Description:** A root vegetable plant cultivated for its edible underground tubers. |
+| <img src="dataset-screenshots/mint.png" width="150"/> | **Common Name:** Mint <br> **Scientific Name:** *Mentha* <br> **Description:** A fragrant herb widely used in food, beverages, and medicinal products. |
+| <img src="dataset-screenshots/coriander.png" width="150"/> | **Common Name:** Coriander <br> **Scientific Name:** *Coriandrum sativum* <br> **Description:** An aromatic herb used in cooking; both leaves and seeds are edible. |
+| <img src="dataset-screenshots/spinach.png" width="150"/> | **Common Name:** Spinach <br> **Scientific Name:** *Spinacia oleracea* <br> **Description:** A leafy green vegetable rich in iron and essential nutrients. |
+| <img src="dataset-screenshots/wheat.png" width="150"/> | **Common Name:** Wheat <br> **Scientific Name:** *Triticum* <br> **Description:** A cereal grain widely cultivated for flour and food production. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
 ### Dataset screenshots: https://drive.google.com/drive/folders/17NH5bilIuDfQOPY54n971zZ72NfRgnz1?usp=drive_link
