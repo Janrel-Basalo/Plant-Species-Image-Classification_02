@@ -1,18 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Plant-Species-Image-Classification_02
 
 ### A. This project train image to classify what type of plant it upload on the teachble machine and show the percentage of what type of plant it is 
@@ -40,35 +28,22 @@
 | ![Cryptocoryne_beckettii_Petchii](https://github.com/user-attachments/assets/b50c6eb7-c213-49f4-b14e-aad9e74e7838) | **Common Name:** Crypt Petchii <br> **Scientific Name:** *Cryptocoryne beckettii* <br> **Description:** A compact aquatic plant with wavy brownish-green leaves, ideal for midground placement. |
 | ![bucephalandra_skeleton_king](https://github.com/user-attachments/assets/4026560b-2c27-4caa-a57d-328734d1ca1e) | **Common Name:** Bucephalandra Skeleton King <br> **Scientific Name:** *Bucephalandra sp.* <br> **Description:** A rare and decorative aquatic plant with elongated dark leaves and unique venation patterns. |
 | ![Limnobium_laevigatum](https://github.com/user-attachments/assets/2e9057ec-2b7b-4c79-82a5-7ea04edf68b4) | **Common Name:** Amazon Frogbit <br> **Scientific Name:** *Limnobium laevigatum* <br> **Description:** A floating aquatic plant with round leaves and long roots that provide shade and shelter. |
-| <img src="dataset-screenshots/spinach.png" width="150"/> | **Common Name:** Brazilian Micro Sword <br> **Scientific Name:** *Lilaeopsis brasiliensis* <br> **Description:** A short grass-like plant used for carpeting in aquariums.|
+| ![00081_azgardens_a60f27adcec1](https://github.com/user-attachments/assets/e2d18d14-1e7b-46c3-89ad-916944e2aac9) | **Common Name:** Brazilian Micro Sword <br> **Scientific Name:** *Lilaeopsis brasiliensis* <br> **Description:** A short grass-like plant used for carpeting in aquariums.|
 | ![Ludwigia_sedioides](https://github.com/user-attachments/assets/86cb434c-becf-4d89-9af0-6d88a3aca52a) | **Common Name:** Mosaic Plant <br> **Scientific Name:** *Ludwigia sedioides* <br> **Description:** A floating aquatic plant with diamond-shaped leaves arranged in a mosaic pattern. |
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Exported Teachable Machine model files: https://drive.google.com/drive/folders/1dYwpOfY6NQqHiQxkuljrRcCgDacPKqOl?usp=drive_link
-### Dataset screenshots: https://drive.google.com/drive/folders/17NH5bilIuDfQOPY54n971zZ72NfRgnz1?usp=drive_link
-### Training screenshots: https://drive.google.com/drive/folders/15uwcDsHWJarcYQ3EYgTJinYFHKiv_Zcr?usp=drive_link
+
+
+### Dataset screenshots:
+<img width="151" height="329" alt="image (7)" src="https://github.com/user-attachments/assets/455f9db5-a4ab-45d0-a9a5-058d74ee12dd" />
+
+
+### Training screenshots: 
+<img width="151" height="329" alt="image (7)" src="https://github.com/user-attachments/assets/455f9db5-a4ab-45d0-a9a5-058d74ee12dd" />
+
+
 
 ### Under-the-hood evaluation screenshots
 | Under The Hood 📈   |          Screenshot             |
@@ -89,8 +64,7 @@
 | Test 3  | ![03e86b04-d87c-4010-b212-5ed496299860](https://github.com/user-attachments/assets/cd45ddcc-27cc-4316-8295-bb7ccb6ca6cd)  |
 | Test 4  | ![6fa6cd8e-fe90-4b6f-9937-17c0ebe9ba2e](https://github.com/user-attachments/assets/c03b0c52-0d5d-487d-a137-4481da55c1ed)  |
 | Test 5  | ![165f137c-0ba0-45c8-9fab-9fb955dc5927](https://github.com/user-attachments/assets/b3258a5f-e8f1-4f52-a9ba-eafb761a595a)  |
-| Test 6  | ![793ef7b5-91b4-486b-8053-a34f9b9d36c9](https://github.com/user-attachments/assets/2dd30a47-079c-4f95-8ae9-974a8cffb741)
-  |
+| Test 6  | ![793ef7b5-91b4-486b-8053-a34f9b9d36c9](https://github.com/user-attachments/assets/2dd30a47-079c-4f95-8ae9-974a8cffb741)  |
 | Test 7  | ![c5f9db77-1211-4e72-9af8-0b83e85ee2a6](https://github.com/user-attachments/assets/e22761cb-e26c-4635-9566-9093a90c342b)  |
 | Test 8  | ![765c280c-229b-43c8-8d44-c523408e0aee](https://github.com/user-attachments/assets/a0b4a4f8-d3da-49c2-a70c-c8b9025666b8)  |
 | Test 9  | ![d3e099bb-901e-4e13-93c3-a0dd6278418e](https://github.com/user-attachments/assets/3d0fa4f8-e026-4ad6-beaa-217efea8ba0e)  |
